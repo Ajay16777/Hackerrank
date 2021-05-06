@@ -1,3 +1,4 @@
+# hourglass sum code
 def hourglassSum(arr):
 	m = []
 	for i in range(N - 2):
@@ -8,6 +9,8 @@ def hourglassSum(arr):
 			temp += arr[i+2][j] + arr[i+2][j+1]+ arr[i+2][j+2]
 			m.append(temp)
 	print(max(m))
+
+# Main function
 N = int(input())
 arr = []
 for _ in range(N):
