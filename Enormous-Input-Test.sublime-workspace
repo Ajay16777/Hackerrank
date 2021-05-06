@@ -1,0 +1,267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"exetanson"
+			],
+			[
+				"f",
+				"False"
+			],
+			[
+				"i",
+				"isalnum"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"a",
+				"arr"
+			],
+			[
+				"n",
+				"N"
+			],
+			[
+				"ma",
+				"maeksheet"
+			],
+			[
+				"se",
+				"se_h"
+			],
+			[
+				"s",
+				"s_h"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"nu",
+				"num1"
+			],
+			[
+				"st",
+				"String"
+			],
+			[
+				"p",
+				"pu\tpublic"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Aegon/Desktop/programing/python/t.py",
+		"/C/Users/Aegon/Desktop/programing/python/nestedlist.py",
+		"/C/Users/Aegon/Desktop/programing/python/runnerup.py",
+		"/C/Users/Aegon/Desktop/programing/python/buypls.py",
+		"/C/Users/Aegon/Desktop/programing/python/test.py",
+		"/C/Users/Aegon/Desktop/programing/python/Enormous-Input-Test.py",
+		"/C/Users/Aegon/Desktop/programing/python/loops.py",
+		"/C/Users/Aegon/Desktop/programing/python/rugf.py",
+		"/G/Computer Scince/projects/calender.c",
+		"/C/Users/Aegon/Downloads/awesome python/awesome-python-master/awesome-python-master/sort.py",
+		"/C/Users/Aegon/Desktop/programing/python/datatypes.py",
+		"/C/Users/Aegon/Desktop/programing/python/pythonifelse.py",
+		"/C/Users/Aegon/Desktop/programing/python/ArithmeticOperators.py",
+		"/G/iit placement course/python/variable/4.1 meeting_idle.py.py",
+		"/G/iit placement course/python/string/2.1 hello_world.py.py",
+		"/G/iit placement course/python/string/5.1 hello_you.py.py",
+		"/G/iit placement course/python/string/10.1 slicer.py.py",
+		"/C/Users/Aegon/Desktop/programing/python/aj.py",
+		"/C/Users/Aegon/Desktop/programing/python/pyramid.py",
+		"/G/iit placement course/Pygame-Examples-master/Game Of Life/cell.py",
+		"/C/Program Files/Python37-32/Lib/asynchat.py",
+		"/C/Program Files/Python37-32/Scripts/easy_install.exe",
+		"/G/iit placement course/Pygame-Examples-master/Game Of Life/Game of Life.py",
+		"/G/iit placement course/Pygame-Examples-master/Maze Generation/Main.py",
+		"/G/iit placement course/Pygame-Examples-master/Game Of Life/__pycache__/cell.cpython-39.pyc",
+		"/G/iit placement course/python/numbers in python/aj.py",
+		"/C/Users/Aegon/aj.java",
+		"/G/iit placement course/python/numbers in python/5.1 health.py.py",
+		"/G/iit placement course/python/numbers in python/cla.py.txt",
+		"/C/Users/Aegon/ajay.py",
+		"/C/Users/Aegon/Desktop/vari.java",
+		"/C/Users/Aegon/Desktop/per.java",
+		"/C/Users/Aegon/aj.class",
+		"/D/i/r/pro/python/ml/image-to-cartoon/main.py",
+		"/C/Program Files/Java/aj.java",
+		"/C/Users/Aegon/Main.class",
+		"/C/Program Files/Sublime Text 3/python3.3.zip",
+		"/C/Users/Aegon/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/C/Program Files/Sublime Text 3/print.py"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Enormous-Input-Test.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
